@@ -189,8 +189,8 @@ func inputGameNumbers() {
 </details>
 
 ## 8. 참고 링크
-- ![compactMap 고차함수(Ellie Kim 블로그)](https://hyerios.tistory.com/83)
-- ![compactMap 공식문서](https://developer.apple.com/documentation/swift/sequence/compactmap(_:))
+- [compactMap 고차함수(Ellie Kim 블로그)](https://hyerios.tistory.com/83)
+- [compactMap 공식문서](https://developer.apple.com/documentation/swift/sequence/compactmap(_:))
 
 ## 9. 팀 회고
 **😁 우리팀이 잘한점**
